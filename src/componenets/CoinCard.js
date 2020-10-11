@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
     padding: 20
   },
   upperRow: {
-    display: "fles",
+    display: "flex",
     flexDirection: "row",
     marginBottom: 15
   },
